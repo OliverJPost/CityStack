@@ -1,0 +1,6 @@
+[submodule "citystackgen"]
+	path = citystackgen
+	url = https://github.com/OliverJPost/citystackgen
+[submodule "citypy"]
+	path = citypy
+	url = https://github.com/OliverJPost/citypy
